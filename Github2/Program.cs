@@ -1,13 +1,13 @@
 ﻿int time = 7;
 if (time < 10)
 {
-    Console.WriteLine("God morgon");
+    Console.WriteLine("Buenos dias");
 }
 else if (time < 20)
 {
-    Console.WriteLine("God dag");
+    Console.WriteLine("Buenas tardes");
 }
 else
 {
-    Console.WriteLine("god kväll");
+    Console.WriteLine("Buenas noches");
 }
