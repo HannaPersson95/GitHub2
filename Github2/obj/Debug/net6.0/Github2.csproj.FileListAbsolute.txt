@@ -1,0 +1,15 @@
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\bin\Debug\net6.0\Github2.exe
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\bin\Debug\net6.0\Github2.deps.json
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\bin\Debug\net6.0\Github2.runtimeconfig.json
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\bin\Debug\net6.0\Github2.dll
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\bin\Debug\net6.0\Github2.pdb
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.csproj.AssemblyReference.cache
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.AssemblyInfoInputs.cache
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.AssemblyInfo.cs
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.csproj.CoreCompileInputs.cache
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.dll
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\refint\Github2.dll
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.pdb
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\Github2.genruntimeconfig.cache
+C:\Users\hhann\Documents\skola\Programvareutveckling\Github2\Github2\obj\Debug\net6.0\ref\Github2.dll
