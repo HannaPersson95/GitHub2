@@ -1,14 +1,13 @@
-﻿int time = 22;
+﻿int time = 7;
 if (time < 10)
 {
-    Console.WriteLine("Good morning.");
+    Console.WriteLine("God morgon");
 }
 else if (time < 20)
 {
-    Console.WriteLine("Good day.");
+    Console.WriteLine("God dag");
 }
 else
 {
-    Console.WriteLine("Good evening.");
+    Console.WriteLine("god kväll");
 }
-// Outputs "Good evening."
